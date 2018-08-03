@@ -1,0 +1,6 @@
+Config Server
+Eureka
+Ribbon
+Zuul
+OAuth
+Kafka
